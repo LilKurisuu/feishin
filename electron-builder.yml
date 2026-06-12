@@ -69,7 +69,7 @@ npmRebuild: false
 afterAllArtifactBuild: scripts/after-all-artifact-build.mjs
 publish:
     provider: github
-    owner: lux032
+    owner: LilKurisuu
     repo: feishin
     channel: latest
     releaseType: draft
